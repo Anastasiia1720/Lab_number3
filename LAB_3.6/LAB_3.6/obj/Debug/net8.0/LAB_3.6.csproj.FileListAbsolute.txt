@@ -1,0 +1,15 @@
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\bin\Debug\net8.0\LAB_3.6.exe
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\bin\Debug\net8.0\LAB_3.6.deps.json
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\bin\Debug\net8.0\LAB_3.6.runtimeconfig.json
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\bin\Debug\net8.0\LAB_3.6.dll
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\bin\Debug\net8.0\LAB_3.6.pdb
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.AssemblyInfoInputs.cache
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.AssemblyInfo.cs
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.csproj.CoreCompileInputs.cache
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.sourcelink.json
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.dll
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\refint\LAB_3.6.dll
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.pdb
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\LAB_3.6.genruntimeconfig.cache
+C:\Users\НастЕна\source\repos\Lab_number3\LAB_3.6\LAB_3.6\obj\Debug\net8.0\ref\LAB_3.6.dll
